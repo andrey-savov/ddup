@@ -182,8 +182,10 @@ Hash component configuration is stored in the database. If you change hash optio
 
 ## License
 
-[Your License Here]
+## License
+
+[MIT License](LICENSE)
 
 ## Contributing
 
-[Contribution Guidelines]
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
